@@ -169,18 +169,6 @@
 </details>
 
 <details>
-  <summary>Destacar (to highlight / stand out)</summary>
-  <table>
-    <tr><th>Pronombre</th><th>Conjugación</th></tr>
-    <tr><td>yo</td><td>destaco</td></tr>
-    <tr><td>tú</td><td>destacas</td></tr>
-    <tr><td>él/ella/usted</td><td>destaca</td></tr>
-    <tr><td>nosotros/as</td><td>destacamos</td></tr>
-    <tr><td>ellos/ellas/ustedes</td><td>destacan</td></tr>
-  </table>
-</details>
-
-<details>
   <summary>Destinar (to allocate / assign)</summary>
   <table>
     <tr><th>Pronombre</th><th>Conjugación</th></tr>
