@@ -240,18 +240,6 @@
 </details>
 
 <details>
-  <summary>Exigir (to demand)</summary>
-  <table>
-    <tr><th>Pronombre</th><th>Conjugación</th></tr>
-    <tr><td>yo</td><td>exijo</td></tr>
-    <tr><td>tú</td><td>exiges</td></tr>
-    <tr><td>él/ella/usted</td><td>exige</td></tr>
-    <tr><td>nosotros/as</td><td>exigimos</td></tr>
-    <tr><td>ellos/ellas/ustedes</td><td>exigen</td></tr>
-  </table>
-</details>
-
-<details>
   <summary>Fomentar (to promote / encourage)</summary>
   <table>
     <tr><th>Pronombre</th><th>Conjugación</th></tr>
