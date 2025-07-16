@@ -1,6 +1,18 @@
 <h1>Spanish Verbs – Present Tense Conjugations</h1>
 
 <details>
+  <summary>Abordar (to address / tackle)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>abordo</td></tr>
+    <tr><td>tú</td><td>abordas</td></tr>
+    <tr><td>él/ella/usted</td><td>aborda</td></tr>
+    <tr><td>nosotros/as</td><td>abordamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>abordan</td></tr>
+  </table>
+</details>
+
+<details>
   <summary>Acelerar (to accelerate)</summary>
   <table>
     <tr><th>Pronombre</th><th>Conjugación</th></tr>
@@ -21,6 +33,18 @@
     <tr><td>él/ella/usted</td><td>adopta</td></tr>
     <tr><td>nosotros/as</td><td>adoptamos</td></tr>
     <tr><td>ellos/ellas/ustedes</td><td>adoptan</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Afirmar (to affirm / state)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>afirmo</td></tr>
+    <tr><td>tú</td><td>afirmas</td></tr>
+    <tr><td>él/ella/usted</td><td>afirma</td></tr>
+    <tr><td>nosotros/as</td><td>afirmamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>afirman</td></tr>
   </table>
 </details>
 
@@ -85,6 +109,18 @@
 </details>
 
 <details>
+  <summary>Carecer (to lack)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>carezco</td></tr>
+    <tr><td>tú</td><td>careces</td></tr>
+    <tr><td>él/ella/usted</td><td>carece</td></tr>
+    <tr><td>nosotros/as</td><td>carecemos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>carecen</td></tr>
+  </table>
+</details>
+
+<details>
   <summary>Conseguir (to get / obtain)</summary>
   <table>
     <tr><th>Pronombre</th><th>Conjugación</th></tr>
@@ -129,6 +165,18 @@
     <tr><td>él/ella/usted</td><td>defiende</td></tr>
     <tr><td>nosotros/as</td><td>defendemos</td></tr>
     <tr><td>ellos/ellas/ustedes</td><td>defienden</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Demostrar (to demonstrate / show)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>demuestro</td></tr>
+    <tr><td>tú</td><td>demuestras</td></tr>
+    <tr><td>él/ella/usted</td><td>demuestra</td></tr>
+    <tr><td>nosotros/as</td><td>demostramos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>demuestran</td></tr>
   </table>
 </details>
 
@@ -213,6 +261,30 @@
     <tr><td>él/ella/usted</td><td>ejecuta</td></tr>
     <tr><td>nosotros/as</td><td>ejecutamos</td></tr>
     <tr><td>ellos/ellas/ustedes</td><td>ejecutan</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Enfatizar (to emphasize)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>enfatizo</td></tr>
+    <tr><td>tú</td><td>enfatizas</td></tr>
+    <tr><td>él/ella/usted</td><td>enfatiza</td></tr>
+    <tr><td>nosotros/as</td><td>enfatizamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>enfatizan</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Evaluar (to evaluate / assess)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>evalúo</td></tr>
+    <tr><td>tú</td><td>evalúas</td></tr>
+    <tr><td>él/ella/usted</td><td>evalúa</td></tr>
+    <tr><td>nosotros/as</td><td>evaluamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>evalúan</td></tr>
   </table>
 </details>
 
