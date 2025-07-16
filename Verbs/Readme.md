@@ -1,6 +1,18 @@
 <h1>Spanish Verbs – Present Tense Conjugations</h1>
 
 <details>
+  <summary>Abarcar (to encompass / cover)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>abarco</td></tr>
+    <tr><td>tú</td><td>abarcas</td></tr>
+    <tr><td>él/ella/usted</td><td>abarca</td></tr>
+    <tr><td>nosotros/as</td><td>abarcamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>abarcan</td></tr>
+  </table>
+</details>
+
+<details>
   <summary>Abordar (to address / tackle)</summary>
   <table>
     <tr><th>Pronombre</th><th>Conjugación</th></tr>
@@ -105,6 +117,18 @@
     <tr><td>él/ella/usted</td><td>asume</td></tr>
     <tr><td>nosotros/as</td><td>asumimos</td></tr>
     <tr><td>ellos/ellas/ustedes</td><td>asumen</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Averiguar (to find out / investigate)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>averiguo</td></tr>
+    <tr><td>tú</td><td>averiguas</td></tr>
+    <tr><td>él/ella/usted</td><td>averigua</td></tr>
+    <tr><td>nosotros/as</td><td>averiguamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>averiguan</td></tr>
   </table>
 </details>
 
@@ -277,6 +301,18 @@
 </details>
 
 <details>
+  <summary>Erradicar (to eradicate)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>erradico</td></tr>
+    <tr><td>tú</td><td>erradicas</td></tr>
+    <tr><td>él/ella/usted</td><td>erradica</td></tr>
+    <tr><td>nosotros/as</td><td>erradicamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>erradican</td></tr>
+  </table>
+</details>
+
+<details>
   <summary>Evaluar (to evaluate / assess)</summary>
   <table>
     <tr><th>Pronombre</th><th>Conjugación</th></tr>
@@ -360,6 +396,18 @@
 </details>
 
 <details>
+  <summary>Matizar (to qualify / nuance / explain in detail)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>matizo</td></tr>
+    <tr><td>tú</td><td>matizas</td></tr>
+    <tr><td>él/ella/usted</td><td>matiza</td></tr>
+    <tr><td>nosotros/as</td><td>matizamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>matizan</td></tr>
+  </table>
+</details>
+
+<details>
   <summary>Negar (to deny)</summary>
   <table>
     <tr><th>Pronombre</th><th>Conjugación</th></tr>
@@ -392,6 +440,30 @@
     <tr><td>él/ella/usted</td><td>propone</td></tr>
     <tr><td>nosotros/as</td><td>proponemos</td></tr>
     <tr><td>ellos/ellas/ustedes</td><td>proponen</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Rebatir (to refute / counterargue)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>rebato</td></tr>
+    <tr><td>tú</td><td>rebates</td></tr>
+    <tr><td>él/ella/usted</td><td>rebate</td></tr>
+    <tr><td>nosotros/as</td><td>rebatimos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>rebaten</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Respaldar (to back / support / endorse)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>respaldo</td></tr>
+    <tr><td>tú</td><td>respaldas</td></tr>
+    <tr><td>él/ella/usted</td><td>respalda</td></tr>
+    <tr><td>nosotros/as</td><td>respaldamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>respaldan</td></tr>
   </table>
 </details>
 
@@ -432,6 +504,18 @@
 </details>
 
 <details>
+  <summary>Suscitar (to provoke / bring about)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>suscito</td></tr>
+    <tr><td>tú</td><td>suscitas</td></tr>
+    <tr><td>él/ella/usted</td><td>suscita</td></tr>
+    <tr><td>nosotros/as</td><td>suscitamos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>suscitan</td></tr>
+  </table>
+</details>
+
+<details>
   <summary>Trasladar (to transfer / move)</summary>
   <table>
     <tr><th>Pronombre</th><th>Conjugación</th></tr>
@@ -464,5 +548,17 @@
     <tr><td>él/ella/usted</td><td>viene</td></tr>
     <tr><td>nosotros/as</td><td>venimos</td></tr>
     <tr><td>ellos/ellas/ustedes</td><td>vienen</td></tr>
+  </table>
+</details>
+
+<details>
+  <summary>Vulnerar (to violate / infringe)</summary>
+  <table>
+    <tr><th>Pronombre</th><th>Conjugación</th></tr>
+    <tr><td>yo</td><td>vulnero</td></tr>
+    <tr><td>tú</td><td>vulneras</td></tr>
+    <tr><td>él/ella/usted</td><td>vulnera</td></tr>
+    <tr><td>nosotros/as</td><td>vulneramos</td></tr>
+    <tr><td>ellos/ellas/ustedes</td><td>vulneran</td></tr>
   </table>
 </details>
